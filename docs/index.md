@@ -36,3 +36,5 @@ shop logic and project documentation.
 *shop and inventory systems to buy new gear and potions with gold drops*
  
 Dungeon Dweller was written by Rogue Interactive's Jared, Peyton, and Alec. 
+
+[*(return to homepage)*](https://arperry99.github.io/)
