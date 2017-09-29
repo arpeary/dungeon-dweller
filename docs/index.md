@@ -1,6 +1,7 @@
 [*(return to homepage)*](https://arperry99.github.io/)
 # Dungeon Dweller
-[*Download Dungeon Dweller (.ZIP) (run Dungeon Dweller.py)*](https://github.com/arperry99/dungeon_dweller/archive/master.zip)
+[*Download Dungeon Dweller(.ZIP)*](https://github.com/arperry99/dungeon_dweller/archive/master.zip)
+
 ### a top-town turn-based dungeon crawler inspired by the classic Rogue (1980)
 *Dungeon Dweller is written in Python 3.1*
 
