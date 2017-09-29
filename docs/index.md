@@ -11,7 +11,7 @@ placed in a randomly picked dungeon level to earn gold and find the key that ope
 the door to the shop. There spend gold to better yourself to face the ever enduring
 monster horde!  
 
-<img src="https://arperry99.github.io/dungeon_dweller/images/map-closed.PNG" href="https://arperry99.github.io/dungeon_dweller/images/map-closed.PNG" width="284" height="201" /><img src="https://arperry99.github.io/dungeon_dweller/images/map-open.PNG" href="https://arperry99.github.io/dungeon_dweller/images/map-open.PNG"width="284" height="201" />
+<img src="https://arperry99.github.io/dungeon_dweller/images/map-closed.PNG" href="https://arperry99.github.io/dungeon_dweller/images/map-closed.PNG" width="284" height="201" /><img src="https://arperry99.github.io/dungeon_dweller/images/map-open.PNG" href="https://arperry99.github.io/dungeon_dweller/images/map-open.PNG" width="284" height="201" />
 
 *Featuring nostalgic ASCII visuals and action!*
  
