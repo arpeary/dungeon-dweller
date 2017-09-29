@@ -2,8 +2,7 @@
 ### a top-town turn-based dungeon crawler inspired by the classic Rogue (1980)
 *Dungeon Dweller is written in Python 3.1*
 
-INSTRUCTIONS:
-Extract whole folder and run "Dungeon Dweller.py" with a python 3.1 installation
+## *INSTRUCTIONS*: Extract whole folder and run "Dungeon Dweller.py" with a Python 3.1 installation
 
 created as a part of my school's Pre-AP Computer Science course in December 2016
 
