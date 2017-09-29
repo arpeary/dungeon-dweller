@@ -3,7 +3,7 @@
 ### a top-town turn-based dungeon crawler inspired by the classic Rogue (1980)
 *Dungeon Dweller is written in Python 3.1*
 
-<img src="https://arperry99.github.io/dungeon_dweller/images/title.PNG" href="https://arperry99.github.io/dungeon_dweller/images/map-title.PNG" width="568" height="402" />  
+<img src="https://arperry99.github.io/dungeon_dweller/images/title.PNG" href="https://arperry99.github.io/dungeon_dweller/images/map-title.PNG" width="511" height="362" />  
 
 Dive into adventure as you delve into a seemingly endless quest for treasure and 
 combat through randomly created ascii dungeons and combat. Defeat monsters randomly 
